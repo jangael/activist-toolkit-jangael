@@ -1,0 +1,18 @@
+.stories {
+  margin: 5em;
+}
+
+p.blog-content {
+  font-size: 15px;
+}
+
+article.story-content {
+  background-color: green;
+  line-height:1.4em;
+  color: white;
+  padding: 5px;
+}
+
+h4.date {
+  margin-left: 10%;
+}
